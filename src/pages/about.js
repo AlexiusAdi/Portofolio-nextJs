@@ -31,7 +31,7 @@ const about = () => {
             <div className="col-span-4 flex flex-col items-start justify-start lg:col-span-7 md:col-span-7 sm:col-span-7 xs:col-span-6">
               <p className="text-2xl font-semibold">
                 Hello! My name is Alexius Adi Nugroho, but you can call me Adi.
-                I'm a Law graduate from Pancasila University who decided to
+                Im a Law graduate from Pancasila University who decided to
                 embark on a new and exciting career path. After spending a few
                 years in the law-related field, I realized that I was seeking a
                 fresh challenge that aligned with my true passion.
@@ -55,7 +55,7 @@ const about = () => {
               </p>
               <p className="text-2xl font-semibold pt-4">
                 My journey has only just begun. As i continued to grow and
-                develop my skills as a web development, I'm ready to embrace new
+                develop my skills as a web development, Im ready to embrace new
                 opportunities and explore new technologies with your team.
               </p>
             </div>
