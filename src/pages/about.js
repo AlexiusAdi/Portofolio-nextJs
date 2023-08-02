@@ -18,7 +18,7 @@ const about = () => {
         <Layout className="pt-4">
           <AnimatedText text="About me" className="mb-16" />
           <div className="grid w-full grid-cols-8 gap-16">
-            <div className="col-span-4 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 shadow-2xl md:hidden sm:hidden xs:hidden lg:col-span-6">
+            <div className="col-span-4 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8 shadow-2xl lg:col-span-7 sm:col-span-5">
               <div className="absolute top-0 -right-3 -z-10 w-[100%] h-[103%] rounded-[2.5rem] bg-dark rounded-br-3xl dark:bg-light dark:rounded " />
               <Image
                 className="w-full h-auto rounded-2xl"
