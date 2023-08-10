@@ -47,8 +47,6 @@ const useThemeSwitcher = () => {
   }, [mode]);
 
   return [mode, setMode];
-
-  return <div>useThemeSwitcher</div>;
 };
 
 export default useThemeSwitcher;
