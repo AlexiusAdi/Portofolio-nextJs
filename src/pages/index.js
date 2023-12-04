@@ -38,7 +38,7 @@ export default function Home() {
           </div>
           <div className="flex items-center justify-center size-2xl self-start mt-2">
             <Link
-              href="/cv-AlexiusAdi.pdf"
+              href="/CV-AlexiusAdiNugroho.pdf"
               className="flex items-center bg-dark text-light p-2.5 px-4 rounded-lg text-lg font-semibold  hover:bg-light hover:text-dark border border-solid border-transparent hover:border-dark dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light"
               download={true}
             >
