@@ -172,9 +172,9 @@ const projects = () => {
               <FeaturedProject
                 title="Galaxy Store"
                 summary="The Galaxy Store is a marketplace specifically designed for Samsung devices, Users can find and buy various type samsung device from smartphone,tablet,watch from the Galaxy Store."
-                link="https://jcwdol0904.purwadhikabootcamp.com/"
+                link="https://jcwdol-0904-galaxystore.vercel.app/"
                 type="Featured Project"
-                github="https://github.com/purwadhikafullstack/JCWDOL0904"
+                github="https://github.com/circle29/JCWDOL0904-forked"
                 img={GalaxyStore}
                 className="dark:text-light"
               />
