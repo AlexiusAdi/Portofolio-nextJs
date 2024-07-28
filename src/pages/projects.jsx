@@ -186,7 +186,7 @@ const projects = () => {
                 invest in various projects. Users can view a list of available investment 
                 projects, monitor their investments through a dashboard, and access 
                 reports on their investment history."
-                link="https://mcinvest.vercel.app/"
+                link="https://mcinvest.app/"
                 type="Project McInvest"
                 img={mcInvest}
                 className="dark:text-light"
